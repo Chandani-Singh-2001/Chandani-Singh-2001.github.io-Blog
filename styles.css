@@ -135,8 +135,9 @@ margin: 15px 0;
 .justify-content {
 display: flex;
 align-items: center;
-gap: 20px;
-padding: 30px;
+gap: 40px;
+padding-top: 20px;
+padding-bottom:20px;
 justify-content: space-between;
 flex-wrap: nowrap;
 max-width:1200px;
@@ -195,8 +196,9 @@ display: flex;
 justify-content: space-between;
 border-radius: 20px;
 margin:0 auto;
+gap:30px;
 max-width: 1200px;
-padding: 20px;
+padding-bottom: 20px;
 }
 /*left-section*/
 .left-section {
